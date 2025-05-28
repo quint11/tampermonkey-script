@@ -3,7 +3,7 @@
 // @namespace    https://github.com/quint11/tampermonkey-script.git
 // @version      1.0
 // @description  Add a button to open the corresponding wiki page on DeepWiki
-// @author       tamina
+// @author       quintus
 // @icon         https://www.google.com/s2/favicons?domain=github.com
 // @match        https://github.com/*/*
 // @grant        none
